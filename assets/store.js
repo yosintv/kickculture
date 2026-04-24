@@ -62,6 +62,8 @@ const countryTeams = [
   
   const featuredProductIds = [
     "country-portugal-home",
+    "country-argentina-away",
+    "country-argentina-home",
     "club-manchester-city-home"
   ];
 
