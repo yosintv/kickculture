@@ -1,0 +1,20 @@
+Add your original jersey images in this folder:
+/Users/apple/Downloads/jersey/images
+
+Required file pattern:
+<team-slug>-home.jpg
+<team-slug>-away.jpg
+
+Examples:
+canada-home.jpg
+canada-away.jpg
+mexico-home.jpg
+mexico-away.jpg
+united-states-home.jpg
+united-states-away.jpg
+afc-slot-1-home.jpg
+afc-slot-1-away.jpg
+uefa-slot-16-home.jpg
+uefa-slot-16-away.jpg
+
+If a file is missing, the website shows a placeholder image automatically.
